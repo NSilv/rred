@@ -1,0 +1,5252 @@
+[
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Rattata",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Pidgey",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Bidoof",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Starly",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Budew",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sentret",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Lillipup",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Lillipup",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Zigzagoon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Zigzagoon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Panpour",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Panpour",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Sentret",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Hoothoot",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Bidoof",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Starly",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Seedot",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Rattata-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Poochyena",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Poochyena",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Zigzagoon-G",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Zigzagoon-G",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Panpour",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Panpour",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 1"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Wooloo",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Mankey",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Spearow",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Swinub",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Budew",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Snubbull",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Deerling-Summer",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Pikipek",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Pikipek",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Rockruff",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Pansear",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Pansear",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Yungoos",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Mankey",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Spearow",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sandshrew-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Skiddo",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Flabebe",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Deerling-Autumn",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Rookidee",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Rookidee",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Rockruff",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Pansear",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Pansear",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 22"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Patrat",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Shinx",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Wingull",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mareep",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Hoppip",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Litleo",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Phanpy",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sandshrew",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Burmy-Sandy",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Skwovet",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Pansage",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Pansage",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Poochyena",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Shinx",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Wingull",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mareep",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oddish",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Houndour",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Phanpy",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Silicobra",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Burmy",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Skwovet",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Pansage",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Pansage",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 2"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Caterpie",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Weedle",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Nincada",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ledyba",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Combee",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Scatterbug",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Pikachu",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Surskit",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Grubbin",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Shroomish",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Joltik",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Joltik",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Spinarak ",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Wurmple",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Blipbug",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Burmy-Trash",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sewaddle",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Kricketot",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Pikachu",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Spinarak ",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Grubbin",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Pumpkaboo-XL",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Snom",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Snom",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Viridian Forest"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Glameow",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ekans",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Spearow",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Nidoran-F",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Flabebe",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Nidoran-M",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Meowth",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Skiddo",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Skiddo",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Stunky",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Jigglypuff",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Jigglypuff",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Nickit",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Stunky",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Spearow",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Nidoran-F",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Flabebe",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Nidoran-M",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Meowth-A",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Shroomish",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Shroomish",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Glameow",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Jigglypuff",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Jigglypuff",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 3"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Geodude",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Zubat",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Rockruff",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Timburr",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Woobat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Chewtle",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Makuhita",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Makuhita",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Tyrogue",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Clefairy",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Trapinch",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Trapinch",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Geodude-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Zubat",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Rockruff",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Machop",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Noibat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Tympole",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Makuhita",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Makuhita",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Tyrogue",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Clefairy",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Trapinch",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Trapinch",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Mt. Moon (Main)"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Paras",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Paras",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Paras",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Slugma",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Woobat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Teddiursa",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Dunsparce",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Baltoy",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Shuppet",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Shuppet",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Cufant",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Cufant",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Paras",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Paras",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Paras",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Slugma",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Rockruff",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Teddiursa",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Dunsparce",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sandile",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Misdreavus",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Misdreavus",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Mawile",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Mawile",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Mt. Moon (Tunnels)"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Geodude",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Zubat",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Rockruff",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Numel",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Woobat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Drilbur",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Whismur",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Smoochum",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Smoochum",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Clefairy",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Onix",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Onix",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Geodude-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Zubat",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Rockruff",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Rolycoly",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Noibat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Drilbur",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Whismur",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Smoochum",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Smoochum",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Clefairy",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Onix",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Onix",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Mt. Moon (Basement)"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Pidove",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Bellsprout",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Shinx",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Pachirisu",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Glameow",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Buneary",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Pumpkaboo",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Flabebe",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Pumpkaboo-M",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Pumpkaboo-M",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Yanma",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Yanma",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Pidove",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Oddish",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Mareep",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Pachirisu",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Stunky",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Buneary",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Phantump",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Flabebe",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Pumpkaboo-L",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Pumpkaboo-L",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Yanma",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Yanma",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 4"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Snubbull",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Petilil",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Whismur",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Abra",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Karrablast",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Volbeat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Elekid",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Farfetch'd",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ralts",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ralts",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ponyta",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Ponyta",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Snubbull",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Cottonee",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Whismur",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Abra",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Karrablast",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Illumise",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Magby",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Farfetch'd",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ralts",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ralts",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ponyta-G",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Ponyta-G",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 24"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Swablu",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Taillow",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Pineco",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Poliwag",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Marill",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Doduo",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Yamper",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Aipom",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Aipom",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Zangoose",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Zangoose",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Swablu",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Taillow",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Venonat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Psyduck",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Buizel",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Murkrow",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Purrloin",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Slakoth",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Slakoth",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 25"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Meowth",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Hatenna",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Solosis",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Growlithe",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Swirlix",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Morelull",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Vulpix",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Solosis",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Grimer",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Grimer",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Drifloon",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Drifloon",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Meowth-G",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Hatenna",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Gothita",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Vulpix-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Spritzee",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Morelull",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Growlithe",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Gothita",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Grimer-A",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Grimer-A",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Drifloon",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Drifloon",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 5"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Sunkern",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Cherubi",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Gulpin",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Furfrou",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sizzlipede",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Dedenne",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Lickitung",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Lickitung",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Meditite",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Meditite",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Togepi",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Togepi",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Bounsweet",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Gossifleur",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Trubbish",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Furfrou",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sizzlipede",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Dedenne",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Komala",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Komala",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Meditite",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Meditite",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Togepi",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Togepi",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 6"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Stufful",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ducklett",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Drowzee",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Baltoy",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Maractus",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bunnelby",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Scraggy",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Scraggy",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sandyghast",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Sandyghast",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Sigilyph",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Sigilyph",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Pancham",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ducklett",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Drowzee",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Baltoy",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Cacnea",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bunnelby",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Scraggy",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Scraggy",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golett",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Golett",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Sigilyph",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Sigilyph",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 11"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Diglett",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Diglett",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Stunfisk",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Silicobra",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Wooper",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sandile",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Drilbur",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Gligar",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Dugtrio",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Dugtrio",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Hippopotas",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Hippopotas",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Diglett-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Diglett-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Stunfisk-G",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Phanpy",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Shellos",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sandile",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Phanpy",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Gligar",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Dugtrio-A",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Dugtrio-A",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Hippopotas",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Hippopotas",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Diglett's Cave"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Shelmet ",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Exeggcute",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Darumaka",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Dewpider",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Indeedee",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Corvisquire",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mime Jr.",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Mime Jr.",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Tropius",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Tropius",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Skorupi",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Skorupi",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Shelmet ",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Exeggcute-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Salandit",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Dewpider",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Indeedee-F",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Corvisquire",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Espurr",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Espurr",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Tropius",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Tropius",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Skorupi",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Skorupi",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 9"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Voltorb",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Helioptile",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Helioptile",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Pincurchin",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Plusle",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Skitty",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Emolga",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Emolga",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Magnemite",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Magnemite",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Croagunk",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Croagunk",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Voltorb",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Electrike",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Electrike",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Pincurchin",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Minun",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Skitty",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Emolga",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Emolga",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Magnemite",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Magnemite",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Croagunk",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Croagunk",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 10"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Graveler",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Aron",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Shuckle",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Solrock",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Zubat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Carbink",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Minior",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ferroseed",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Stonjourner",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Heatmor",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Durant",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Durant",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Graveler-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Aron",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Dwebble",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Lunatone",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Zubat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Carbink",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Minior",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ferroseed",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Stonjourner",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Heatmor",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Durant",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Durant",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Rock Tunnel"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Sandslash",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Boldore",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Swinub",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Snorunt",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bronzor",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bonsly",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Carkol",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Carkol",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Cubchoo",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Cubchoo",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Klink",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Klink",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Sandslash-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Rhyhorn",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Swinub",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Cubone",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Nosepass",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bonsly",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Onix",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Onix",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sneasel",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Sneasel",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Klink",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Klink",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Rock Tunnel B1F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Deerling",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Inkay",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Rufflet",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Rufflet",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Cutiefly",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Applin",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Passimian",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Passimian",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Mienfoo",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Mienfoo",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Porygon",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Porygon",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Deerling-Winter",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Inkay",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vullaby",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Vullaby",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Cutiefly",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Applin",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oranguru",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Oranguru",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Mienfoo",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Mienfoo",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Porygon",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Porygon",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 7"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Lombre",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Minccino",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vulpix",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Kirlia",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Venipede",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Venipede",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Comfey",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Comfey",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Stantler",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Stantler",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Miltank",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Miltank",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Lombre",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Minccino",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Growlithe",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Kirlia",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Venipede",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Venipede",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Comfey",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Comfey",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Girafarig",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Girafarig",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Miltank",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Miltank",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 8"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Haunter",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Cofagrigus",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Dusclops",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mismagius",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mismagius",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Cubone-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Spiritomb",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sableye",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Polteageist",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Polteageist",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Lampent",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Lampent",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Haunter",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Runerigus ",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Dusclops",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mismagius",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mismagius",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Cubone-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Spiritomb",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sableye",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Polteageist",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Polteageist",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Lampent",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Lampent",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Pok\\233mon Tower"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Mudbray",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Duosion",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Dodrio",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Falinks",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Gulpin",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Togedemaru",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Togedemaru",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Elgyem",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Elgyem",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Hawlucha",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Hawlucha",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Mudbray",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Gothorita",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Dodrio",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Falinks",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Trubbish",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Togedemaru",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Togedemaru",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Elgyem",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Elgyem",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Hawlucha",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Hawlucha",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 16"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Weezing",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Zebstrika",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Muk",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Hypno",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Grumpig",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Torkoal",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Drampa",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Drampa",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Skarmory",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Skarmory",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Weezing-G",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Zebstrika",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Muk-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Hypno",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Grumpig",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Torkoal",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Turtonator",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Turtonator",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Skarmory",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Skarmory",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 17"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Xatu",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vigoroth",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Leavanny",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Abomasnow",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Altaria",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oricorio-Pom",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Toxicroak",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Toxicroak",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Bisharp",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Bisharp",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Eevee",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Eevee",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Xatu",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vigoroth",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Leavanny",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Abomasnow",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Altaria",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oricorio-Pom",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Drapion",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Drapion",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Bisharp",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Bisharp",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Eevee",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Eevee",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 18"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Munna",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Pidgeot",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Swirlix",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Camerupt",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Pansear",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oricorio-Sensu",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Rapidash",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Rapidash",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Drifloon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Drifloon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Bulbasaur",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Bulbasaur",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Musharna",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Pidgeot",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Spritzee",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Camerupt",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simisear",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oricorio-Sensu",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Rapidash-G",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Rapidash-G",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Drifblim",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Drifblim",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Bulbasaur",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Bulbasaur",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 12"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Tangrowth",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vanilluxe",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Roselia",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Lurantis",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simisage",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oricorio-P'au",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Miltank",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Miltank",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Zangoose",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Zangoose",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Charmander",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Charmander",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Tangrowth",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vanilluxe",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Nuzleaf",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Lurantis",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simisage",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oricorio-P'au",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Miltank",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Miltank",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Charmander",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Charmander",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 13"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Pelipper",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Swadloon",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Torkoal",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Torkoal",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Whirlipede",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Whirlipede",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Charjabug",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Charjabug",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Durant",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Durant",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Golisopod",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Golisopod",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Pelipper",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Swadloon",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Torkoal",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Torkoal",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Palossand",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Palossand",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Charjabug",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Charjabug",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Durant",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Durant",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Golisopod",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Golisopod",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 14"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Amoonguss",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ambipom",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Tsareena",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Galvantula",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Panpour",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oricorio-Baile",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sigilyph",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sigilyph",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ferrothorn",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ferrothorn",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ditto",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Ditto",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Amoonguss",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ambipom",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Tsareena",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Galvantula",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simipour",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Oricorio-Baile",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sigilyph",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sigilyph",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ferrothorn",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ferrothorn",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ditto",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Ditto",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 15"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Kecleon",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Spinda",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Absol",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Absol",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Meltan",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Meltan",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Porygon",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Porygon",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Scyther",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Scyther",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chansey",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chansey",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Kecleon",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Spinda",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Absol",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Absol",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Meltan",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Meltan",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Porygon",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Porygon",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Heracross",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Heracross",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chansey",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chansey",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Safari Zone 1"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Hawlucha",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Castform",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Bouffalant",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bouffalant",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Wobbuffet",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Wobbuffet",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Zorua",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Zorua",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Pinsir",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Pinsir",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Kangaskhan",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Kangaskhan",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Hawlucha",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Castform",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Tauros",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Tauros",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Wobbuffet",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Wobbuffet",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Zorua",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Zorua",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Pinsir",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Pinsir",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Kangaskhan",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Kangaskhan",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Safari Zone 2"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Klefki",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Klefki",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Sawk",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Sawk",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bisharp",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bisharp",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Skarmory",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Skarmory",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Binacle",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Binacle",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Axew",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Axew",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Klefki",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Klefki",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Throh",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Throh",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bisharp",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Bisharp",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Skarmory",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Skarmory",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Binacle",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Binacle",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Axew",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Axew",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Safari Zone 3"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Druddigon",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Druddigon",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vespiquen",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Vespiquen",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Hippowdon",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Hippowdon",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Yanma",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Yanma",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Crabominable",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Crabominable",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Smeargle",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Smeargle",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Druddigon",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Druddigon",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vespiquen",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Vespiquen",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Hippowdon",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Hippowdon",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Yanma",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Yanma",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Crabominable",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Crabominable",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Smeargle",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Smeargle",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Safari Zone 4"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Kingler",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Kingler",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Weepinbell",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Weepinbell",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Nidorino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Nidorino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Kricketune",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Kricketune",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Victreebel",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Victreebel",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Kingler",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Kingler",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Weepinbell",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Weepinbell",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Nidorino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Nidorino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Kricketune",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Kricketune",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Victreebel",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Victreebel",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 21"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Piloswine",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Snorunt",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Beartic",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Beartic",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Slowbro",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Slowbro",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Avalugg",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Avalugg",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Jynx",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Jynx",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Sandslash-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Snorunt",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Beartic",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Beartic",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Walrein",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Walrein",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Avalugg",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Avalugg",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Jynx",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Jynx",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Seafoam Islands B1F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Piloswine",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Darmanitan-G",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vanilluxe",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Vanilluxe",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Slowking",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Slowking",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Cryogonal",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Cryogonal",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Delibird",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Delibird",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Sandslash-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Darmanitan-G",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Vanilluxe",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Vanilluxe",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golduck",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golduck",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Cryogonal",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Cryogonal",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Delibird",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Delibird",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Seafoam islands B2F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Abomasnow",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Snorunt",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ninetales-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ninetales-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Crawdaunt",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Crawdaunt",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sneasel",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Sneasel",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Delibird",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Delibird",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Abomasnow",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Snorunt",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ninetales-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ninetales-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Kingler",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Kingler",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sneasel",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Sneasel",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Delibird",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Delibird",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Seafoam Islands B3F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Piloswine",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Darmanitan-G",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ninetales-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ninetales-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Dewgong",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Dewgong",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Frosmoth",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Frosmoth",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Jynx",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Jynx",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Sandslash-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Darmanitan-G",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ninetales-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ninetales-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golduck",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golduck",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Frosmoth",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Frosmoth",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Jynx",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Jynx",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Seafoam Islands B4F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Raticate",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Muk",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Muk",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Weezing",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Liepard",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Arcanine",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Arcanine",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sableye",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Sableye",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Raticate-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Muk-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Muk-A",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Weezing-G",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Liepard",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ninetales",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ninetales",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Sableye",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Sableye",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Pkmn Mansion 1F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Gumshoos",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Garbodor",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Koffing",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Swalot",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Heatmor",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mightyena",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Houndoom",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Houndoom",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Banette",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Banette",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Obstagoon",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Garbodor",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Koffing",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Swalot",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Heatmor",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mightyena",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Salazzle",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Salazzle",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Banette",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Banette",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Pkmn Mansion 2F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Bewear",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Rapidash",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Skuntank",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Chandelure",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Chandelure",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Krookodile",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Krookodile",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Komala",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Rapidash-G",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Skuntank",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Chandelure",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Chandelure",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Krookodile",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Krookodile",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Pkmn Mansion 3F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Raticate",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Garbodor",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Magmar",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mightyena",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Arcanine",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Arcanine",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Banette",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Banette",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Raticate-A",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Garbodor",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ariados",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Magmar",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Mightyena",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ninetales",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Ninetales",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Banette",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Banette",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Chimecho",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Pkmn Mansion B1F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Magneton",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Electrode",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Zebstrika",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Eelektross",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ampharos",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ampharos",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Dedenne",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Dedenne",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Electabuzz",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Electabuzz",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Electabuzz",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Electabuzz",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Magneton",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Electrode",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Manectric",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Vikavolt",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ampharos",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Ampharos",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Togedemaru",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Togedemaru",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Electabuzz",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Electabuzz",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Electabuzz",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Electabuzz",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Power Plant"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Parasect",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Magneton",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Magneton",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Seismitoad",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Seismitoad",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Duraludon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Duraludon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Parasect",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Conkeldurr",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Conkeldurr",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Magneton",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Magneton",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Seismitoad",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Seismitoad",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Duraludon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Duraludon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Cerulean Cave"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Amoonguss",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Swoobat",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Primeape",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Primeape",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Alakazam",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Alakazam",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Duraludon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Duraludon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Amoonguss",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Swoobat",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Pangoro",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Pangoro",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Reuniclus",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Reuniclus",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Duraludon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Duraludon",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Cerulean Cave 2F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Shiinotic",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Noivern",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Medicham",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Medicham",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Lopunny",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Gardevoir",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Lopunny",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Gardevoir",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Excadrill",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Excadrill",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Shiinotic",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Noivern",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Toxicroak",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Toxicroak",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Lopunny",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Gardevoir",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Lopunny",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Gardevoir",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Excadrill",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Excadrill",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Type:Null",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Cerulean Cave B1F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Primeape",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Fearow",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Simisage",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simisear",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simipour",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simipour",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Staraptor",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Staraptor",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Primeape",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Fearow",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Simisage",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simisear",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simipour",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Simipour",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Seviper",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Staraptor",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Staraptor",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Route 23"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Golem",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Steelix",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Steelix",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Golem",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Steelix",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Steelix",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Victory Road 1F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Golem",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Primeape",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Primeape",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Golem",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Primeape",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Primeape",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Victory Road 2F"
+    },
+    {
+        "_routePks": {
+            "_day": [
+                {
+                    "_pkName": "Palossand",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 1
+                }
+            ],
+            "_night": [
+                {
+                    "_pkName": "Palossand",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Audino",
+                    "_pkPercent": 20
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Golbat",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 10
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Arbok",
+                    "_pkPercent": 5
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Marowak",
+                    "_pkPercent": 4
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 1
+                },
+                {
+                    "_pkName": "Machamp",
+                    "_pkPercent": 1
+                }
+            ]
+        },
+        "_routeName": "Victory Road 3F"
+    }
+]
